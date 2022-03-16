@@ -1,6 +1,5 @@
-# Jumia Food 
-## Deeplinks
-### Nigeria
+# Deeplinks
+## Nigeria
 
 | Screen | Parameters | Link |
 |------ | ------ |------ |
