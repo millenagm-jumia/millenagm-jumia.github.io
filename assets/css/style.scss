@@ -1,0 +1,41 @@
+---
+---
+
+@import 'jekyll-theme-architect';
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+header {
+    background: #282828;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 3px #F68B1E;
+}
+
+header h1 {
+    font-size: 40px;
+    color: #fff;
+}
+
+header h2 {
+    color: #fff;
+}
+
+#main-content h1 {
+    color: #2A2A2A;
+}
+
+#main-content h1:before {
+    color: #F68B1E;
+}
+
+#main-content h2 {
+    color: #2A2A2A;
+}
+
+#main-content h2:before {
+    color: #F68B1E;
+}
