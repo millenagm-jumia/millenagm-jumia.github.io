@@ -11,3 +11,8 @@
 | Vendor Detail <br>(Fast Food Vasco) |  VendorID 1233 |  [jumiafood://ng/s/c?v=1233](jumiafood://ng/s/c?v=1233)| 
 | Jumia Prime  | - |  [jumiafood://ng/s/jps](jumiafood://ng/s/jps)| 
 | RAF  | - | [jumiafood://ng/s/raf](jumiafood://ng/s/raf) | 
+
+| Test Case | Link |
+|------ | ------ |
+| 1 |[jumiafood://ng/s/sbs?a=82](jumiafood://ng/s/s?a=82) | 
+| 2 | [jumiafood://ng/s/c?a=82&v=978](jumiafood://ng/s/c?a=82&v=978)| 
